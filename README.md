@@ -1,5 +1,5 @@
 # Ethnic-Group-Classification-Using-Transfer-Learning
-Writing about the classification of people of three types of ethnic groups. This transfer learning based tried with 3 different types of pre-build mode which are 
+Writing about the classification of people of three types of ethnic groups. This transfer learning based project tried with 3 different types of pre-build mode which are 
 1. VGG16.
 2. ResNet50.
 3. Mobilenet Version two (MobileNetV2).
